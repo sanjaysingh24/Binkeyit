@@ -80,7 +80,9 @@ npm start          # Starts the Node.js backend
 ## Tech Stack
 
 - **Frontend**: [React](https://react.dev/), [Vite](https://vitejs.dev/)
-- **Backend**: Node.js, Express (presumed, update if necessary)
+- **Backend**: Node.js, Express
+- **Database**:Mongodb
+- **Payment Integration**:Stripe
 - **Linting**: ESLint
 - **Deployment**: [Vercel](https://vercel.com/) ([Live Demo](https://binkeyit-full-stack-ydrn.vercel.app/))
 
